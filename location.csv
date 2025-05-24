@@ -1,0 +1,23 @@
+﻿Station_ID,Capacity,PV_Technology,Panel_Size,Module,Inverters,Layout,Panel_Number,Array_Tilt,Pyranometer,Longitude,Latitude
+station,20000,Poly-Si,1.6335,"products types:YL265C-30b
+Pmax:265 Wp
+Vmpp:31 V
+Impp:8.55 A
+manufacturer:Yingli","products types:SUN2000-40KTL
+Max. DC input: 40.8 kW
+Max. DC voltage: 1000 V
+Max. DC current: 23 A 
+Rated power: 36 kW
+manufacturer:Huawei","modules per string:22
+strings per inverter:5",78042,South 33°,"GHI: 
+products types: TBQ-2
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.
+DHI:
+products types: TBD-1
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.",113.89999,36.70761
